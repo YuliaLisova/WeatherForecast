@@ -1,0 +1,45 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\шаг\winforms\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+D:\шаг\прогноз погоды\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+D:\шаг\прогноз погоды\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\шаг\прогноз погоды\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\шаг\winforms\прогноз погоды_без рекурсии\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\gitprojects\WeatherForecast\Forecast\WindowsFormsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
